@@ -15,7 +15,7 @@ html, body {
     box-sizing: border-box;
 
     /* Background: gradient over image */
-    background-image:  url('../../public/weather.jpg');
+    background-image:  url('../../weather.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
